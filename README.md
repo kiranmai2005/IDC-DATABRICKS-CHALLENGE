@@ -7,23 +7,23 @@ The journey progresses from core Spark & Delta Lake concepts to analytics, ML, a
 ## Learning Phases Overview
 - PHASE 1: Foundation (Days 1–4)
 
-- Databricks & Lakehouse fundamentals
+  - Databricks & Lakehouse fundamentals
 
-- Apache Spark architecture & PySpark basics
+  - Apache Spark architecture & PySpark basics
 
-- Data transformations, joins, window functions
+  - Data transformations, joins, window functions
 
-- Delta Lake concepts & ACID transactions
+  - Delta Lake concepts & ACID transactions
 
-PHASE 2: Data Engineering (Days 5–8)
+- PHASE 2: Data Engineering (Days 5–8)
 
-Advanced Delta Lake (Time Travel, MERGE, OPTIMIZE)
+-  Advanced Delta Lake (Time Travel, MERGE, OPTIMIZE)
 
-Medallion Architecture (Bronze → Silver → Gold)
+-  Medallion Architecture (Bronze → Silver → Gold)
 
-Databricks workflows & job orchestration
+-  Databricks workflows & job orchestration
 
-Unity Catalog & data governance
+-  Unity Catalog & data governance
 
 PHASE 3: Advanced Analytics (Days 9–11)
 
