@@ -1,10 +1,9 @@
 ## IDC AI Challenge — Databricks Learning Journey
 
-This repository documents my 21-day AI challenge conducted by [Indian Data Club (IDC)](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) and CodeBasics, focused on building end-to-end data engineering and AI solutions using Databricks.
-
+This repository documents my 21-day AI challenge conducted by [Indian Data Club (IDC)](https://www.linkedin.com/company/indian-data-club/posts/?feedView=all) and [Codebasics](https://www.linkedin.com/company/codebasics/), focused on building end-to-end data engineering and AI solutions using Databricks.
 The journey progresses from core Spark & Delta Lake concepts to analytics, ML, and a real-world capstone project.
 
-## Learning Phases Overview
+## 📌 Learning Phases Overview
 - PHASE 1: Foundation (Days 1–4)
 
   - Databricks & Lakehouse fundamentals
