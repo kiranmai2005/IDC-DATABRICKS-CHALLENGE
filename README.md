@@ -7,11 +7,8 @@ The journey progresses from core Spark & Delta Lake concepts to analytics, ML, a
 - PHASE 1: Foundation (Days 1–4)
 
   - Databricks & Lakehouse fundamentals
-
   - Apache Spark architecture & PySpark basics
-
   - Data transformations, joins, window functions
-
   - Delta Lake concepts & ACID transactions
 
 - PHASE 2: Data Engineering (Days 5–8)
